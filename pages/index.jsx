@@ -26,7 +26,7 @@ export default function Home() {
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
-<b>Lazy To Type</b>
+<b>I Am 16 Years Old Semi Full Stack Developer Who Know <i>Javascript</i>,<i>NextJS</i>,<i>Typescript</i>,<i>React</i>,<i>Html</i>,<i>CSS</i>,<i>PHP</i>  <br></br>I Use <i>NodeJS</i>,<i>Vsc</i>,<i>Git</i>,<i>MongoDB</i> <b>As My Tools</b> </b>
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
